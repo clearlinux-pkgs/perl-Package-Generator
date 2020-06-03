@@ -4,7 +4,7 @@
 #
 Name     : perl-Package-Generator
 Version  : 1.106
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Package-Generator-1.106.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Package-Generator-1.106.tar.gz
 Summary  : 'generate new packages quickly and easily'
@@ -98,5 +98,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Package/Generator.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Package/Reaper.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Package/Generator.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Package/Reaper.pm
