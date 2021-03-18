@@ -4,7 +4,7 @@
 #
 Name     : perl-Package-Generator
 Version  : 1.106
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Package-Generator-1.106.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Package-Generator-1.106.tar.gz
 Summary  : 'generate new packages quickly and easily'
